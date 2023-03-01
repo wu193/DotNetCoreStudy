@@ -1,0 +1,16 @@
+2023/02/07 14:02:14.926|INFO|this is info |LoggingSamples.Program|
+2023/02/07 14:02:14.941|INFO|this is info |LoggingSamples.Program|
+2023/02/07 14:02:14.941|WARN|this is warning |Zerodo|
+2023/02/07 14:02:14.941|WARN|this is warning |Zerodo|
+2023/02/07 14:02:14.941|ERROR|this is error |Zerodo|
+2023/02/07 14:02:14.941|ERROR|this is error |Zerodo|
+2023/02/07 14:02:14.941|FATAL|this critical |Zerodo|
+2023/02/07 14:02:14.941|FATAL|this critical |Zerodo|
+2023/02/07 14:02:14.941|TRACE|a=123 |Zerodo|a=123
+2023/02/07 14:02:14.941|TRACE|a=123 |Zerodo|a=123
+2023/02/07 14:02:14.941|TRACE|b=321 |Zerodo|b=321
+2023/02/07 14:02:14.941|TRACE|b=321 |Zerodo|b=321
+2023/02/07 14:02:14.941|TRACE|c=444 |Zerodo|c=444
+2023/02/07 14:02:14.941|TRACE|c=444 |Zerodo|c=444
+2023/02/07 14:02:14.941|TRACE|this is trace 02/07/2023 14:02:14 |LoggingSamples.Program|date=2023/2/7 14:02:14
+2023/02/07 14:02:14.941|TRACE|this is trace 02/07/2023 14:02:14 |LoggingSamples.Program|date=2023/2/7 14:02:14

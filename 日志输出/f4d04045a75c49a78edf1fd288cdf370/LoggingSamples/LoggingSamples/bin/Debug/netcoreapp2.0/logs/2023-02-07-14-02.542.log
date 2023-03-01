@@ -1,0 +1,15 @@
+2023/02/07 14:02:10.815|WARN|this is warning |Zerodo|
+2023/02/07 14:02:10.833|WARN|this is warning |Zerodo|
+2023/02/07 14:02:10.833|ERROR|this is error |Zerodo|
+2023/02/07 14:02:10.833|ERROR|this is error |Zerodo|
+2023/02/07 14:02:10.833|FATAL|this critical |Zerodo|
+2023/02/07 14:02:10.833|FATAL|this critical |Zerodo|
+2023/02/07 14:02:10.833|TRACE|a=123 |Zerodo|a=123
+2023/02/07 14:02:10.833|TRACE|a=123 |Zerodo|a=123
+2023/02/07 14:02:10.833|TRACE|b=321 |Zerodo|b=321
+2023/02/07 14:02:10.833|TRACE|b=321 |Zerodo|b=321
+2023/02/07 14:02:10.833|TRACE|c=444 |Zerodo|c=444
+2023/02/07 14:02:10.833|TRACE|c=444 |Zerodo|c=444
+2023/02/07 14:02:10.833|TRACE|this is trace 02/07/2023 14:02:10 |LoggingSamples.Program|date=2023/2/7 14:02:10
+2023/02/07 14:02:10.833|TRACE|this is trace 02/07/2023 14:02:10 |LoggingSamples.Program|date=2023/2/7 14:02:10
+2023/02/07 14:02:10.833|DEBUG|this is debug |LoggingSamples.Program|EventId_Id=4004, EventId_Name=, EventId=4004
