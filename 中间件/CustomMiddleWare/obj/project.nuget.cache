@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "RBXh3a3dik9XBuJppqIEfsDoF/0YAtyXxKJ/LDJ/MiF6niAQ/+Cno9cFLtX9kLpqr8m1c+cdZQivktLT9vXUYg==",
+  "success": true,
+  "projectFilePath": "D:\\零度\\中间件\\CustomMiddleWare\\CustomMiddleWare.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\z1494\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\z1494\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\z1494\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\z1494\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\z1494\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\z1494\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

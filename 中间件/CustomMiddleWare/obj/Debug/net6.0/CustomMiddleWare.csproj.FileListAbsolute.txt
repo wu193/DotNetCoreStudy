@@ -1,0 +1,12 @@
+D:\零度\中间件\CustomMiddleWare\bin\Debug\net6.0\CustomMiddleWare.deps.json
+D:\零度\中间件\CustomMiddleWare\bin\Debug\net6.0\CustomMiddleWare.dll
+D:\零度\中间件\CustomMiddleWare\bin\Debug\net6.0\CustomMiddleWare.pdb
+D:\零度\中间件\CustomMiddleWare\obj\Debug\net6.0\CustomMiddleWare.csproj.AssemblyReference.cache
+D:\零度\中间件\CustomMiddleWare\obj\Debug\net6.0\CustomMiddleWare.GeneratedMSBuildEditorConfig.editorconfig
+D:\零度\中间件\CustomMiddleWare\obj\Debug\net6.0\CustomMiddleWare.AssemblyInfoInputs.cache
+D:\零度\中间件\CustomMiddleWare\obj\Debug\net6.0\CustomMiddleWare.AssemblyInfo.cs
+D:\零度\中间件\CustomMiddleWare\obj\Debug\net6.0\CustomMiddleWare.csproj.CoreCompileInputs.cache
+D:\零度\中间件\CustomMiddleWare\obj\Debug\net6.0\CustomMiddleWare.dll
+D:\零度\中间件\CustomMiddleWare\obj\Debug\net6.0\refint\CustomMiddleWare.dll
+D:\零度\中间件\CustomMiddleWare\obj\Debug\net6.0\CustomMiddleWare.pdb
+D:\零度\中间件\CustomMiddleWare\obj\Debug\net6.0\ref\CustomMiddleWare.dll
