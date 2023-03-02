@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UCMZ7lTVP7mI7zGo72MNzl2rtbDQZdiEZIAADBiyZ4dpdsHWDu5cvbkTd3jf3LmEWpECyoXEwi6Nclr6UsJtkA==",
+  "dgSpecHash": "f4zc7uHUuhuNJXKEqfBXogWJklJQjT2LPWfWDHX88Meb759vp3XGJRnzsNAU2e3dmwt26PiNH6w3hhYhnDaoJw==",
   "success": true,
-  "projectFilePath": "D:\\零度\\NetCore\\IdentityServer4\\2.API安全验证\\Example\\Quickstart\\IdentityServer\\IdentityServer.csproj",
+  "projectFilePath": "D:\\零度\\NetCore\\IdentityServer4\\2.客户端API安全验证\\Example\\Quickstart\\IdentityServer\\IdentityServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\z1494\\.nuget\\packages\\identitymodel\\4.3.0\\identitymodel.4.3.0.nupkg.sha512",
     "C:\\Users\\z1494\\.nuget\\packages\\identityserver4\\4.0.0\\identityserver4.4.0.0.nupkg.sha512",

@@ -3700,11 +3700,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\零度\\NetCore\\IdentityServer4\\2.API安全验证\\Example\\Quickstart\\Api\\Api.csproj",
+      "projectUniqueName": "D:\\零度\\NetCore\\IdentityServer4\\2.客户端API安全验证\\Example\\Quickstart\\Api\\Api.csproj",
       "projectName": "Api",
-      "projectPath": "D:\\零度\\NetCore\\IdentityServer4\\2.API安全验证\\Example\\Quickstart\\Api\\Api.csproj",
+      "projectPath": "D:\\零度\\NetCore\\IdentityServer4\\2.客户端API安全验证\\Example\\Quickstart\\Api\\Api.csproj",
       "packagesPath": "C:\\Users\\z1494\\.nuget\\packages\\",
-      "outputPath": "D:\\零度\\NetCore\\IdentityServer4\\2.API安全验证\\Example\\Quickstart\\Api\\obj\\",
+      "outputPath": "D:\\零度\\NetCore\\IdentityServer4\\2.客户端API安全验证\\Example\\Quickstart\\Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

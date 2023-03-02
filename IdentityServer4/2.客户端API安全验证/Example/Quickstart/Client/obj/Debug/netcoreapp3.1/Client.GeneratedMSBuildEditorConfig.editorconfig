@@ -1,3 +1,3 @@
 is_global = true
 build_property.RootNamespace = Client
-build_property.ProjectDir = D:\零度\NetCore\IdentityServer4\2.API安全验证\Example\Quickstart\Client\
+build_property.ProjectDir = D:\零度\NetCore\IdentityServer4\2.客户端API安全验证\Example\Quickstart\Client\

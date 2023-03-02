@@ -11,7 +11,7 @@ namespace Api.Controllers
     [Authorize]
     public class TestController : ControllerBase
     {
-        //[Authorize(Policy = "mygroup")]
+        [Authorize(Policy = "mygroup")]
         //[Authorize(Roles = "lingdurole")]
         public IActionResult Get()
         {
